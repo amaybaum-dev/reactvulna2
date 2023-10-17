@@ -4,7 +4,7 @@ import {Link} from 'react-router';
 import MyLink from './utils/MyLink'
 import PubSub from 'pubsub-js';
 import Constants from './Constants';
-import 'js-yaml';
+import 'color-string';
 
 class App extends Component {
 
