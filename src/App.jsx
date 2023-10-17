@@ -5,6 +5,7 @@ import MyLink from './utils/MyLink'
 import PubSub from 'pubsub-js';
 import Constants from './Constants';
 import 'color-string';
+import 'ajv';
 
 class App extends Component {
 
